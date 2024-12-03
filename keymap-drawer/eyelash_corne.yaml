@@ -20,7 +20,7 @@ layers:
   - F
   - G
   - $$mdi:arrow-left-bold$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - G
   - $$mdi:arrow-right-bold$$
   - H
   - J
