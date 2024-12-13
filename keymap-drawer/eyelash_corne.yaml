@@ -15,17 +15,17 @@ layers:
   - {t: '$$mdi:backspace$$', type: backspace}
   - '&td0'
   - A
-  - S
-  - D
-  - F
+  - {t: S, h: LA}
+  - {t: D, h: LS}
+  - {t: F, h: LC}
   - G
   - $$mdi:arrow-left-bold$$
   - G
   - $$mdi:arrow-right-bold$$
   - H
-  - J
-  - K
-  - L
+  - {t: J, h: RC}
+  - {t: K, h: RS}
+  - {t: L, h: RA}
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-control$$
